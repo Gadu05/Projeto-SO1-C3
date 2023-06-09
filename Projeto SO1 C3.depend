@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684084297 source:c:\users\gadu\documents\programacao\projeto so1 c3\main.cpp
+	<iostream>
+	<sstream>
+	<windows.h>
+	<iomanip>
+
